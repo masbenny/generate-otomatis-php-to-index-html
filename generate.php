@@ -1,10 +1,10 @@
 <?php
 /* KanuraganProject - pembuat galeri responsif statis
   * Instruksi
-  * Atur input_dir yang benar (mis. gambar/)
+  * Atur input_dir yang benar (mis. images/)
   * Jalankan file ini dari cmdline dengan izin yang benar:
   *
-  * php xvid.php
+  * php generate.php
   *
   * Ini akan menghasilkan folder thumbnail dan akhirnya indeks.html.
   * Pindahkan folder index.html, thumbnail dan gambar ke mana saja dan itu akan berfungsi.
